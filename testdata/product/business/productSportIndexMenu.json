@@ -1,0 +1,10 @@
+{
+    "positive": {
+        "payload": {
+
+        },
+        "expected": {
+            "code": 0
+        }
+    }
+}

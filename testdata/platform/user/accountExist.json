@@ -1,0 +1,20 @@
+{
+    "positive": {
+        "payload": {
+            "account": "autobot0001"
+        },
+        "expected": {
+            "code": 0,
+            "isExist": true
+        }
+    },
+    "negative": {
+        "payload": {
+            "account": "autobot000000"
+        },
+        "expected": {
+            "code": 0,
+            "isExist": false
+        }
+    }
+}

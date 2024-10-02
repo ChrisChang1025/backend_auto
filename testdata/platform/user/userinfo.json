@@ -1,0 +1,13 @@
+{
+    "positive": {
+        "payload": {
+
+        },
+        "expected": {
+            "code": 0,
+            "data": {
+                "account": "autobot0001"
+            }
+        }
+    }
+}

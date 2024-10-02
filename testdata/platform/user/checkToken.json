@@ -1,0 +1,13 @@
+{
+    "negative": {
+        "payload": {
+            "token": "----"
+        },
+        "expected": {
+            "code": 0,
+            "data": {
+                "result": false
+            }
+        }
+    }
+}
